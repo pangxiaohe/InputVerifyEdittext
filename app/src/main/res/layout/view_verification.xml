@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        <EditText
+                android:id="@+id/firstEt"
+                style="@style/text_verify_style"/>
+
+        <EditText
+                android:id="@+id/secondEt"
+                style="@style/text_verify_style"/>
+
+        <EditText
+                android:id="@+id/thirdEt"
+                style="@style/text_verify_style"/>
+
+        <EditText
+                android:id="@+id/fourthEt"
+                style="@style/text_verify_style"/>
+
+        <EditText
+                android:id="@+id/fifthEt"
+                style="@style/text_verify_style"/>
+
+        <EditText
+                android:id="@+id/sixthEt"
+                style="@style/text_verify_style"/>
+
+    </LinearLayout>
+</layout>
