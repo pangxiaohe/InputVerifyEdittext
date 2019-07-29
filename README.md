@@ -16,6 +16,6 @@
 - 控件介绍
 
 > VerificationCodeView 这个类实现了所有的功能，原理还是用了 6 个输入框，如果项目需要可以
-在此基础上做拓展，具体的功能实现对输入框添加删除键点击监听，以及输入监听
+在此基础上做拓展，具体的功能实现逻辑是对输入框添加删除键点击监听，以及输入监听
 
 ![img](https://github.com/pangxiaohe/InputVerifyEdittext/blob/master/app/src/main/res/drawable/device_2019_07_29_170756.gif)
